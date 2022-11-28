@@ -12,7 +12,7 @@
 🔺CSS3, <br>
  
  ##  ⚜️Objetivo <br>
-<strong>O intuito desse projeto foi aprender os conceitos base  do desenvolvimento de uma palicação web </strong>
+<strong>O intuito desse projeto foi aprender os conceitos base  do desenvolvimento de uma aplicação web </strong>
 <br>
 <a href="https://projeto-apepeteria.vercel.app/"> 💻Link para acesso </a>
  
